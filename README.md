@@ -23,7 +23,8 @@ HTML was intended to define the content of a document, like:
  
 <p>This is a paragraph.</p> 
  
-When tags like <font>, and color attributes were added to the HTML 3.2 specification, it started a nightmare for web developers. Development of large web sites, where fonts and color information were added to every single page, became a long and expensive process. 
+When tags like <font>, and color attributes were added to the HTML 3.2 specification, it started a nightmare for web developers. Development of large web sites, where fonts and color information were added to every single page, became a long and expensive process. AMM
+
  
 To solve this problem, the World Wide Web Consortium (W3C) created CSS. 
  
@@ -34,4 +35,4 @@ All browsers support CSS today.
 CSS Saves a Lot of Work! 
 CSS defines HOW HTML elements are to be displayed. 
  
-Styles are normally saved in external .css files. External style sheets enable you to change the appearance and layout of all the pages in a Web site, just by editing one single file!
+Styles are normally saved in external .css files. External style sheets enable you to change the appearance and layout of all the pages in a Web site, just by editing one single 
